@@ -9,6 +9,7 @@ Given an array `nums` and a target value, find **two indices** such that their e
 * Return indices in any order
 
 ---
+**LINK:** https://leetcode.com/problems/two-sum/description/
 
 ### 💡 Approach 1: Brute Force
 
