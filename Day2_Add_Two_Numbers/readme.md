@@ -42,5 +42,5 @@ l2 = [5,6,4]
 ---
 
 ## 🧾⏱️Code Complexity
-Time Complexity: O(max(n, m))
-Space Complexity: O(max(n, m))
+- Time Complexity: O(max(n, m))
+- Space Complexity: O(max(n, m))
